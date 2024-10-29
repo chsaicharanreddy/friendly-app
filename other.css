@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Main01 {
+
+    background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+    background-size: cover;
+    padding: 30px;
+    margin: 25px;
+    height: 95vh;
+}
+
+.Title1_01 {
+    color: #F42F3D;
+    font-family: Baufra;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Tips {
+    text-align: center;
+    padding: 10px;
+}
+
+.Tips1_01 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.button {
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.A20S11A7021 {
+    color: green;
+    font-family: Roboto;
+    text-decoration: underline;
+}
+
+.View {
+    color: white;
+}
+
+/* SECTION2,3,4,5*/
+
+.Main02 {
+
+    background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+    background-size: cover;
+    padding: 30px;
+    margin: 25px;
+
+
+}
+
+.list02 {
+    color: white;
+}
+
+.Title1_01 {
+    color: #F42F3D;
+    font-family: Baufra;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.BackButton {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}

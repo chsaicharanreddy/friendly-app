@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.A20S11A7021 {
+    color: green;
+    font-family: Roboto;
+    text-decoration: underline;
+}
+
+.View {
+    color: white;
+}
+
+.Main1 {
+    display: cover;
+
+}
+
+.Para {
+    text-align: center;
+    font-family: italic;
+}
+
+.Notes {
+    text-align: center;
+    font-family: Algeria by Alan Carr;
+    font-weight: bold;
+}
+
+.Marquee {
+    color: RED;
+    font-family: Serif;
+    background-color: yellow;
+
+}
+
+.Table {
+    height: 70vh;
+    background-image: linear-gradient(95.2deg, rgba(173, 252, 234, 1) 26.8%, rgba(192, 229, 246, 1) 64%);
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+
+}
